@@ -1,6 +1,6 @@
 
 
-<img align="right" style="float: right; width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="coffee" src="./1.gif" />
+
 
 ## 👋Ciallo～(∠・ω< )⌒☆​ ！！ 
 
@@ -32,6 +32,6 @@
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+<img align="right" style="float: right; width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="coffee" src="./1.gif" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanxiaomang)](https://github.com/anuraghazra/github-readme-stats)
